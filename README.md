@@ -4,7 +4,7 @@ Primeiro projeto com Spring boot, maven, JPA / hibernative e mais, mas ainda nã
 # O que eu usei no código:
 * **POO**
 * **JPA / Hibernative**
-* **Banco de dados**
+* **Banco de dados (H2)**
 * **Heroku**
 * **Spring boot**
 * **Maven**
